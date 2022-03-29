@@ -23,7 +23,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Scelerisque viverra mauris
 - Vulputate enim
 - Nulla aliquet
-- Porttitor lacus
 
 ## INSTALLATION
 
